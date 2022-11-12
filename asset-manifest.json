@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/OleksandrB93/to-list-react-hooks.git/static/css/main.eafa59b7.css",
-    "main.js": "/OleksandrB93/to-list-react-hooks.git/static/js/main.dadabfac.js",
-    "index.html": "/OleksandrB93/to-list-react-hooks.git/index.html",
-    "main.eafa59b7.css.map": "/OleksandrB93/to-list-react-hooks.git/static/css/main.eafa59b7.css.map",
-    "main.dadabfac.js.map": "/OleksandrB93/to-list-react-hooks.git/static/js/main.dadabfac.js.map"
+    "main.css": "/to-list-react-hooks/static/css/main.eafa59b7.css",
+    "main.js": "/to-list-react-hooks/static/js/main.dadabfac.js",
+    "index.html": "/to-list-react-hooks/index.html",
+    "main.eafa59b7.css.map": "/to-list-react-hooks/static/css/main.eafa59b7.css.map",
+    "main.dadabfac.js.map": "/to-list-react-hooks/static/js/main.dadabfac.js.map"
   },
   "entrypoints": [
     "static/css/main.eafa59b7.css",
