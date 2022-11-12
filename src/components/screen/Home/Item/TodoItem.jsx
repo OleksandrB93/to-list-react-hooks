@@ -5,7 +5,8 @@ import { BsTrash } from "react-icons/bs";
 
 const TodoItem = ({ todo, changeTodo, removeTodo }) => {
   return (
-    <div className="flex items-center justify-between mb-4 rounded-2xl bg-gray-700 p-5 w-full ">
+    <div className="flex items-center justify-between mb-4 rounded-2xl p-5 w-full
+     bg-gray-500  ">
       <button className="flex item-center" onClick={() => changeTodo(todo.id)}>
         <Checkbox isCompleted={todo.isCompleted} />
         <span
@@ -27,6 +28,3 @@ const TodoItem = ({ todo, changeTodo, removeTodo }) => {
 };
 
 export default TodoItem;
-
-
-

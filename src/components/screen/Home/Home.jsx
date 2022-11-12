@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
 import TodoItem from "./Item/TodoItem";
 import CreatedTodoField from "./CreatedTodoField/CreatedTodoField";
 import useLocalStorage from "../../../hooks/useLocaleStorage";
@@ -18,9 +18,7 @@ const data = [
 ];
 
 const Home = () => {
-    const [todos, setTodos]=useLocalStorage("todos", "data")
-
-//   const [todos, setTodos] = useState(data);
+    const [todos, setTodos]=useLocalStorage("todos", data)
 
   const changeTodo = (id) => {
     const copy = [...todos];
