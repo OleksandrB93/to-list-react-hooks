@@ -2,7 +2,7 @@
   "name": "to-list-react-hooks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/OleksandrB93/to-list-react-hooks.git",
+  "homepage": "https://oleksandrb93.github.io/to-list-react-hooks/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
